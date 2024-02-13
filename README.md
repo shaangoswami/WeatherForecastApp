@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# Weather Forecast app using python
 It is an app can predict weather of states of India. Learned from   **@wscubetech**    Youtube channel.
 
 
